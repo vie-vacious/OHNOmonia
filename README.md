@@ -9,5 +9,5 @@ All test and train dataset images were taken from:
 ---
 ### Texture Classifier Test
 I first tested the k-means algorithm in Matlab, using the following image of 16 different textures:
-![](OHNOmonia/textureClassifier_Test/brodatz.tif)
+![All 16 Textures](https://vie-vacious.github.com/OHNOmonia/brodatz.tif)
 
