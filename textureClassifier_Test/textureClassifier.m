@@ -1,9 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %Name: Vaishnavi Kotha
-%Course: ENGG*4660 - Medical Image Processing 
-%Section: Section 01 - 11:30AM - 1:20PM
-%Due Date: Thursday April 9, 2020 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% 
